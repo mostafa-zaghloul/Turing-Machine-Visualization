@@ -1,0 +1,13 @@
+D:\FCIS\Subjects\4th year\Second term\Theory of computation\Turing Machine\Turing Machine\bin\Debug\Turing Machine.exe.config
+D:\0 4Y 2T\Theory of Computation\project\Turing Machine\Turing Machine\bin\Debug\Turing Machine.exe.config
+D:\0 4Y 2T\Theory of Computation\project\Turing Machine\Turing Machine\bin\Debug\Turing Machine.exe
+D:\0 4Y 2T\Theory of Computation\project\Turing Machine\Turing Machine\bin\Debug\Turing Machine.pdb
+D:\0 4Y 2T\Theory of Computation\project\Turing Machine\Turing Machine\obj\Debug\Turing Machine.csprojResolveAssemblyReference.cache
+D:\0 4Y 2T\Theory of Computation\project\Turing Machine\Turing Machine\obj\Debug\Turing_Machine.Properties.Resources.resources
+D:\0 4Y 2T\Theory of Computation\project\Turing Machine\Turing Machine\obj\Debug\Turing Machine.csproj.GenerateResource.Cache
+D:\0 4Y 2T\Theory of Computation\project\Turing Machine\Turing Machine\obj\Debug\Turing Machine.exe
+D:\0 4Y 2T\Theory of Computation\project\Turing Machine\Turing Machine\obj\Debug\Turing Machine.pdb
+D:\0 4Y 2T\Theory of Computation\project\Turing Machine\Turing Machine\obj\Debug\Turing_Machine.TMV.resources
+D:\4Y 2T\Theory of Computation\project\Turing Machine\Turing Machine\bin\Debug\Turing Machine.exe.config
+D:\4Y 2T\Theory of Computation\project\Turing Machine\Turing Machine\obj\Debug\Turing Machine.exe
+D:\4Y 2T\Theory of Computation\project\Turing Machine\Turing Machine\obj\Debug\Turing Machine.pdb
